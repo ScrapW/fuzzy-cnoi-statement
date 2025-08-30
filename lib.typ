@@ -1,0 +1,2 @@
+#import "/fuzzy-cnoi-statement-standard.typ": document-class
+#import "/fuzzy-cnoi-statement-modular.typ": init, title, problem-table, new-problem, filename, current-filename, current-sample-filename, data-constraints-table-args, contest-init

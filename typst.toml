@@ -1,7 +1,7 @@
 [package]
 name = "fuzzy-cnoi-statement"
-version = "0.1.3"
-entrypoint = "fuzzy-cnoi-statement.typ"
+version = "0.2.0"
+entrypoint = "lib.typ"
 authors = ["Wallbreaker5th"]
 license = "MIT-0"
 description = "A template for CNOI(Olympiad in Informatics in China)-style statements for competitive programming"
