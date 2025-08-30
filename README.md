@@ -48,3 +48,7 @@ Here are the fonts that this template will use, you can change the font by passi
 Refer to `main.typ` for a complete example.
 
 `main.typ` 提供了一个完整的示例。
+
+Refer to `main-modular.typ` & `problems/*.typ` for a complete example with separated problems.
+
+`main-modular.typ` & `problems/*.typ` 提供了一个将题目分离的完整的示例。
