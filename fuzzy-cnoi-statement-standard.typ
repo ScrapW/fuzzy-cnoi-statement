@@ -347,7 +347,7 @@
           (
             text(size: l.at(2))[对于 #l.at(0) #h(1fr) 语言],
             table.cell(
-              colspan: problem-list.len(),
+              colspan: calc.max(problem-list.len(), 1),
               raw(l.at(1))
             )
           )
